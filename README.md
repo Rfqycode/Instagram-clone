@@ -36,10 +36,8 @@ Proyek ini adalah halaman web statis yang meniru tampilan **profil Instagram** m
 ---
 ## 📷 Preview
 
-### Tailwind CSS
+### Tailwind & Bootstrap
 
-![Tailwind Preview](images/tailwind.png)
+![Tailwind & Bootstrap Preview](img/img1.png)
 
-### Bootstrap CSS
 
-![Bootstrap Preview](images/bootstrap.png)
